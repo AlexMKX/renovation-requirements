@@ -53,4 +53,4 @@
 
 ## 4. Кухня.
 
-В кухне над вытяжкой устанавливается вентилятор Noctua Industrial PPC 24v 140mm с управлением по PWM через модуль [JUF 4802](https://github.com/AlexMKX/modbus/tree/main/JUF4802)
+В кухне над вытяжкой, помимо стандартной вытяжки, устанавливается вентилятор Noctua Industrial PPC 24v 140mm с управлением по PWM через модуль [JUF 4802](https://github.com/AlexMKX/modbus/tree/main/JUF4802)
